@@ -1,9 +1,9 @@
 {
   "packageDirectories": [
-    {
-        "path": "force-app"
-    }
-],  
+      {
+          "path": "force-app"
+      }
+  ],    
   "orgName": "DreamHouse Realty",
   "edition": "Developer",
   "settings": {
